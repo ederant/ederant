@@ -3,6 +3,7 @@
 Computer Systems Engineer | Network Engineer & Developer  
 📍 Santa Rosa de Copán, Honduras 🇭🇳
 
+
 ---
 
 ## 🧰 Stack
@@ -26,7 +27,7 @@ Computer Systems Engineer | Network Engineer & Developer
 - Instalación de infraestructura en telecomunicaciones
 - Desarrollo de herramientas de red y automatización con **Python y JavaScript**
 
-
+Portafolio https://ederant.github.io
 ---
 
 ## 🚀 Proyectos destacados
@@ -36,6 +37,7 @@ Computer Systems Engineer | Network Engineer & Developer
 | [MikroGen v2.0](https://github.com/ederant/mikrogen-v2) | Generador de scripts RouterOS para técnicos ISP | JavaScript |
 | FarmStock | Sistema de inventario para farmacias con licenciamiento | Electron + Node.js |
 | Agenda de Casos | Gestión de tickets para soporte técnico | JavaScript |
+
 
 ---
 
